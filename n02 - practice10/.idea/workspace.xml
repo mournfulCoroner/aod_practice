@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f981011e-f135-49eb-aa66-3e6d94e197b4" name="Default Changelist" comment="" />
+    <list default="true" id="f0ac08a2-22a5-4316-9324-3b6ac825c60b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +18,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1hMscQ9YTY5N2bO6jIx2NgdkD5u" />
+  <component name="ProjectId" id="1i3BFhGZK9ZZFCdQyZ1T8yWKJvR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ikbo-01-19/practice4 - Леутина" />
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -35,17 +32,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="n01-practice9" />
+  <component name="RunManager" selected="Application.RBTree">
+    <configuration name="RBTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RBTree" />
+      <module name="n02 - practice10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree" />
+      <module name="n02 - practice10" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RBTree" />
+        <item itemvalue="Application.Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -54,11 +59,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f981011e-f135-49eb-aa66-3e6d94e197b4" name="Default Changelist" comment="" />
-      <created>1599832374282</created>
+      <changelist id="f0ac08a2-22a5-4316-9324-3b6ac825c60b" name="Default Changelist" comment="" />
+      <created>1601126292622</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599832374282</updated>
+      <updated>1601126292622</updated>
     </task>
     <servers />
   </component>
@@ -67,9 +72,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
