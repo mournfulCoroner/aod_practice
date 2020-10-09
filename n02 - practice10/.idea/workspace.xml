@@ -20,6 +20,9 @@
   </component>
   <component name="ProjectId" id="1i3BFhGZK9ZZFCdQyZ1T8yWKJvR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../n03 - practice11" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -32,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RBTree">
+  <component name="RunManager" selected="Application.Tree">
     <configuration name="RBTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RBTree" />
       <module name="n02 - practice10" />
@@ -49,8 +52,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RBTree" />
         <item itemvalue="Application.Tree" />
+        <item itemvalue="Application.RBTree" />
       </list>
     </recent_temporary>
   </component>
@@ -72,7 +75,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
